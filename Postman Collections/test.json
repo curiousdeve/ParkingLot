@@ -4,5 +4,27 @@
     "name": "test collection for v8",
     "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
   },
-  "item": []
+  "item": [],
+  "event": [
+    {
+      "listen": "prerequest",
+      "script": {
+        "id": "c5c961d5-140c-4d9f-85c3-1de4eee87d51",
+        "type": "text/javascript",
+        "exec": [
+          "console.log('vinit');"
+        ]
+      }
+    },
+    {
+      "listen": "test",
+      "script": {
+        "id": "662539b0-2248-483d-91c1-21167065d146",
+        "type": "text/javascript",
+        "exec": [
+          ""
+        ]
+      }
+    }
+  ]
 }
