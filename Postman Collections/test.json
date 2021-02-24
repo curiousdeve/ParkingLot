@@ -9,17 +9,17 @@
     {
       "listen": "prerequest",
       "script": {
-        "id": "c5c961d5-140c-4d9f-85c3-1de4eee87d51",
+        "id": "f65ab2c4-18ab-4a5e-bb5b-85eb1ccae208",
         "type": "text/javascript",
         "exec": [
-          "console.log('vinit');"
+          "console.log(hello world);"
         ]
       }
     },
     {
       "listen": "test",
       "script": {
-        "id": "662539b0-2248-483d-91c1-21167065d146",
+        "id": "4b571570-e208-430b-8bcf-1e4b78784b18",
         "type": "text/javascript",
         "exec": [
           ""
