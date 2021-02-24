@@ -39,17 +39,17 @@
     {
       "listen": "prerequest",
       "script": {
-        "id": "f65ab2c4-18ab-4a5e-bb5b-85eb1ccae208",
+        "id": "86319525-bf62-44a5-9893-1e6324839fe9",
         "type": "text/javascript",
         "exec": [
-          "console.log(hello world);"
+          "console.log('hello world');"
         ]
       }
     },
     {
       "listen": "test",
       "script": {
-        "id": "4b571570-e208-430b-8bcf-1e4b78784b18",
+        "id": "ec21156f-0cf7-430a-87b8-ed7369b6aae1",
         "type": "text/javascript",
         "exec": [
           ""
