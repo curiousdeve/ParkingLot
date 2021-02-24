@@ -4,7 +4,21 @@
     "name": "test collection for v8",
     "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
   },
-  "item": [],
+  "item": [
+    {
+      "name": "New Request",
+      "_postman_id": "75eb5ff6-89da-4716-9ae4-cdbdf7699686",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": null
+      },
+      "response": []
+    }
+  ],
   "event": [
     {
       "listen": "prerequest",
